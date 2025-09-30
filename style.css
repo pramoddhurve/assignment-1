@@ -1,0 +1,76 @@
+    body {
+        margin: 0%;
+        background: linear-gradient(to right, rgb(128, 156, 207), #6fd5c0);
+        font-family: arial;
+    }
+    
+    #div1 {
+        background-color: white;
+        height: 80px;
+        width: 100%;
+        text-align: center;
+        padding-top: 30px;
+    }
+    
+    #div2 span {
+        text-align: center;
+        padding-top: 10px;
+        font-weight: bold;
+        padding-bottom: 10px;
+        font-size: 20px;
+    }
+    
+    nav {
+        width: 50%;
+        text-align: center;
+        margin-left: 25%;
+        padding-top: 20px;
+    }
+    
+    nav a {
+        text-decoration: none;
+        color: black;
+        margin: 30px;
+    }
+    
+    #div4 h4 {
+        padding-left: 20px;
+    }
+    
+    ol {
+        list-style-type: square;
+    }
+    
+    #div5 h4 {
+        padding-left: 20px;
+    }
+    
+    table {
+        width: 80%;
+        height: 150px;
+        margin-left: 10%;
+        text-align: center;
+    }
+    
+    table #tr1 {
+        background-color: black;
+        color: white;
+    }
+    
+    table .rfirst {
+        background-color: white;
+    }
+    
+    table .rfirst :hover {
+        background-color: rgb(129, 126, 126);
+    }
+    
+    footer {
+        color: white;
+        width: 100%;
+        height: 80px;
+        background-color: black;
+        text-align: center;
+        padding-top: 10px;
+        margin-bottom: 20px;
+    }
